@@ -1,0 +1,1 @@
+It can also be installed in versions 1.8.9 or below, but it is perfectly compatible with 1.16.5. Similarly, it can also be installed in versions above 1.17.
